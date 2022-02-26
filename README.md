@@ -7,3 +7,7 @@ Visit the "list" folder to see a list of cracked scripts for use.
 2. Introvert
 3. Xaxa
 4. djBacon
+
+<br>
+Our community discord server, 
+### https://discord.gg/366rxv7RFY
