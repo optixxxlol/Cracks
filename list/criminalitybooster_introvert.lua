@@ -2,6 +2,10 @@
   "cracked" 2/28/2022 by Introvert#1337
   i ended up just getting the source, however, the script can be cracked easily
 
+  cracked for:
+    logging raw ip
+    skidding (literally loadstrings another script in the script)
+
   to bypass initial key gui:
     easy way: run script loaded when its passed 
     cool way: the 2nd constant of the MouseButton1Down connection callback of the submit button has the valid key, which you can just use
