@@ -6,6 +6,5 @@ Visit the "list" folder to see a list of cracked scripts for use.
 1. Wally
 2. Introvert
 3. Xaxa
-4. djBacon
 
 Our community discord server, https://discord.gg/366rxv7RFY
