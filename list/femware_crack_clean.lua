@@ -1,5 +1,6 @@
 
 _G.FemKess = "FemWare on Top" -- copyware
+_G.Pass2Poo = "FemWare on Top"
 
 wait(1)
 
